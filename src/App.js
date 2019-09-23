@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 import Cell from './Cell';
 
 class App extends React.Component {
